@@ -1,9 +1,9 @@
                 HTML
 1.	What is the purpose of the <!DOCTYPE html> declaration?
   	The <!DOCTYPE html> declaration tells the browser that the document is written in HTML5, which is the latest HTML standard. It ensures that the browser renders the page in standard mode, providing consistent and expected behavior across different browsers.
-2.	What is the purpose of the <meta charset="UTF-8">  tag?
+3.	What is the purpose of the <meta charset="UTF-8">  tag?
   	This meta tag specifies the character encoding for document as UTF-8, which is the most common encoding. UTF-8 supports nearly all characters and symbols, ensuring proper display of different languages and special characters.
-3.	What is the  difference between <section>, <div> and <article> element?
+4.	What is the  difference between <section>, <div> and <article> element?
   -	<section> : it is the groups that related content by theme, typically with a heading.
   -	<div> : A generic container with no semantic meaning, often used for styling and layout.
   -	<article> : Represents standalone content, like a blog post or new item, that could be independently distributed or syndicated
